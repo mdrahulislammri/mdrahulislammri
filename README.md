@@ -17,9 +17,9 @@ I build websites, automate workflows, and design clean digital experiences.
 
 I’m a multi-skilled web professional from Bangladesh.
 
-I don’t just design websites — I **build systems** that save time, reduce manual work, and actually solve problems.
+I don’t just design websites — I build **systems** that save time, reduce manual work, and actually solve problems.
 
-My core focus areas:
+My core focus:
 - WordPress website design & customization
 - Workflow automation using n8n
 - Bot development & API integration
@@ -67,8 +67,10 @@ No overcomplicated nonsense. Just solutions that work.
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true&theme=github_dark&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulislammri&layout=compact&theme=github_dark)
 
 ---
 
