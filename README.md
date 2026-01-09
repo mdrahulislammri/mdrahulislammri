@@ -68,9 +68,9 @@ No overcomplicated nonsense. Just solutions that work.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true&theme=github_dark&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true&theme=default&cache_seconds=86400" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulislammri&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahulislammri&layout=compact&theme=default&cache_seconds=86400" height="160"/>
 
 ---
 
