@@ -46,3 +46,6 @@ I focus on:
 
 ## 📫 Contact Me
 - GitHub: https://github.com/mdrahulislammri
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true)
+
