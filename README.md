@@ -59,6 +59,10 @@ I prefer **practical solutions**, not over-engineered nonsense.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web-Development-blue)
+![Automation](https://img.shields.io/badge/Automation-Bots-green)
 
 ---
 
