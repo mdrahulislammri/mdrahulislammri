@@ -1,10 +1,15 @@
 # 👋 Hi, I'm Md Rahul Islam
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web-Development-blue)
+![Automation](https://img.shields.io/badge/Automation-Bots-green)
+
 💻 WordPress Designer | Web Developer & Designer  
 🤖 Automation & Bot Developer (n8n)  
 🎨 Graphic Designer  
 
-I help businesses build modern websites, automate workflows, and design clean user experiences.
+I build websites, automate workflows, and design clean digital experiences.
 
 ---
 
@@ -12,13 +17,15 @@ I help businesses build modern websites, automate workflows, and design clean us
 
 I’m a multi-skilled web professional from Bangladesh.
 
-My work focuses on:
-- High-quality WordPress websites
-- Automation using n8n
-- Bot development & API integrations
-- Clean, user-friendly design
+I don’t just design websites — I **build systems** that save time, reduce manual work, and actually solve problems.
 
-I prefer **practical solutions**, not over-engineered nonsense.
+My core focus areas:
+- WordPress website design & customization
+- Workflow automation using n8n
+- Bot development & API integration
+- Clean, practical, user-focused design
+
+No overcomplicated nonsense. Just solutions that work.
 
 ---
 
@@ -28,43 +35,42 @@ I prefer **practical solutions**, not over-engineered nonsense.
 - WordPress (Theme Customization, Elementor)
 - HTML, CSS, JavaScript
 - Responsive Web Design
-- Website Optimization
+- Website Speed Optimization
 
 ### 🤖 Automation & Bots
 - n8n Workflow Automation
 - REST API Integration
-- Telegram / WhatsApp Bots
-- Webhooks & Automation Logic
+- Webhooks
+- Telegram & WhatsApp Bots
 
-### 🎨 Design
+### 🎨 Graphic & UI
 - Graphic Design
 - UI / UX Basics
 - Canva, Figma
 
 ---
 
-## 📌 Featured Work (Coming Soon)
-- WordPress business websites
-- Automated workflows with n8n
+## 🧠 What I’m Currently Working On
+- Real-world WordPress websites
+- Automation workflows with n8n
 - Bot-based automation projects
+- Improving backend & automation logic
 
 ---
 
-## 🚀 What I'm Currently Doing
-- Building WordPress websites for clients
-- Creating automation workflows with n8n
-- Improving backend & automation skills
+## 🎯 What I Can Help With
+- Business & portfolio WordPress websites
+- Automation to save time and reduce errors
+- Messaging bots for automation
+- Simple, clean, effective design solutions
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Web-Development-blue)
-![Automation](https://img.shields.io/badge/Automation-Bots-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrahulislammri&show_icons=true&theme=github_dark&cache_seconds=1800)
+
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - GitHub: https://github.com/mdrahulislammri
